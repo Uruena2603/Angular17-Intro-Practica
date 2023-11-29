@@ -10,7 +10,7 @@ En este curso, exploramos las novedades introducidas en Angular 17, centrándono
 
 ### Estrutura y Bases de Angular
 
-Se profundizó en la comprensión de la estructura y las bases fundamentales de Angular y se adoptó el enfoque `standalone` para la organización de los componentes, eliminando la necesidad de módulos.
+Se profundizó en la comprensión de la estructura y las bases fundamentales de Angular y se adoptó el enfoque `standalone` para la organización de los componentes.
 
 ### Teoría de la Detección de Cambios
 
