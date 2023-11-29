@@ -1,27 +1,25 @@
-# Angular0
+# Aprendiendo Angular 17: Una Introducción Práctica
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
+Este repositorio contiene el código fuente y los ejemplos prácticos desarrollados durante mi primer acercamiento a Angular 17.
 
-## Development server
+## Temas Destacados
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Introducción a Angular 17
 
-## Code scaffolding
+En este curso, exploramos las novedades introducidas en Angular 17, centrándonos en el cambio fundamental de la estructura de los componentes. Destacamos el abandono del uso de módulos en favor del atributo `standalone`, proporcionando una organización más clara y consistente en el proyecto.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Estrutura y Bases de Angular
 
-## Build
+Se profundizó en la comprensión de la estructura y las bases fundamentales de Angular y se adoptó el enfoque `standalone` para la organización de los componentes, eliminando la necesidad de módulos.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Teoría de la Detección de Cambios
 
-## Running unit tests
+El curso incluyó un enfoque en la teoría de la detección de cambios en Angular. Se exploraron los aspectos fundamentales del núcleo de Angular relacionados con la detección de cambios y se introdujo la estrategia de cambio `OnPush` para mejorar el rendimiento de la aplicación.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Two-Way Data Binding
 
-## Running end-to-end tests
+Un punto clave del curso fue el estudio detallado del two-way data binding en Angular. Se demostró cómo compartir datos bidireccionalmente entre componentes padre e hijo, y se profundizó en el funcionamiento interno del two-way data binding.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Implementación del `OnPush` para Detección de Cambios
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Se dedicó tiempo a estudiar la implementación práctica de la estrategia `OnPush` para la detección de cambios. Se exploraron los beneficios de esta estrategia en términos de rendimiento y se proporcionaron ejemplos prácticos de su aplicación.
